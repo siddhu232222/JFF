@@ -1,8 +1,7 @@
 import random
 
-# Generate a random number between 1 and 1000
+# Generating a random number between 1 and 1000
 correct_answer = random.randint(1, 1000)
-# print(correct_answer)  
 
 attempts = 0
 
